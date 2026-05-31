@@ -13,7 +13,7 @@ resolver problemas com mais clareza e escrever código mais sustentável.
 Atualmente evoluindo para o Back-End com Node.js e Express, buscando
 uma visão completa do desenvolvimento de produtos.
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> <br>
  <b align="center">💻 Desenvolvedor Web Front-End</b>
 
 ---
