@@ -1,4 +1,8 @@
-Olá, eu sou Momade Ibraimo Desenvolvedor Front-End focado em construir interfaces modernas, componentizadas e integradas a APIs REST.
+Olá, eu sou
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Momade+Ibraimo)](https://github.com/Momade-Ibraimo)
+
+Desenvolvedor Front-End focado em construir interfaces modernas, componentizadas e integradas a APIs REST.
 
 Desenvolvo aplicações web com React.js, priorizando código limpo,
 componentização e boas práticas desde o início do projeto.
