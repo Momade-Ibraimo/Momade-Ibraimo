@@ -6,7 +6,6 @@ Desenvolvedor Front-End focado em construir interfaces modernas, componentizadas
 
 Desenvolvo aplicações web com React.js, priorizando código limpo,
 componentização e boas práticas desde o início do projeto.
-
 Tenho uma abordagem orientada a fundamentos — entendo como os sistemas
 funcionam por dentro antes de focar em ferramentas. Isso me permite
 resolver problemas com mais clareza e escrever código mais sustentável.
