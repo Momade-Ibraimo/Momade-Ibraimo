@@ -4,9 +4,8 @@ Olá, eu sou
 
 Sou um Desenvolvedor Front-End apaixonado por construir interfaces modernas,
 componentizadas e integradas a APIs REST.
-
 Acredito que bom código é aquele que é legível, organizado e resolve
-problemas reais. Cada componente que construo é pensado com propósito —
+problemas reais. Cada componente que construo é pensado com propósito 
 da estrutura à experiência do usuário.
 
 Atualmente evoluindo para o Back-End com Node.js e Express, buscando
