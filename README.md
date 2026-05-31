@@ -44,7 +44,7 @@ em tempo real, consumindo API REST externa.
 
 **Stack:** React.js • Styled Components • Axios • React Router
 
-🔗 [Ver repositório](link-do-repo)
+🔗 [Ver repositório](https://github.com/Momade-Ibraimo/app-pedidos-hamburgueria)
 
 ---
 
@@ -54,11 +54,11 @@ integrado a uma API REST.
 
 **Stack:** React.js • Styled Components • Axios • React Router
 
-🔗 [Ver repositório](link-do-repo)
+🔗 [Ver repositório](https://github.com/Momade-Ibraimo/app-cadastro-usuarios)
 
 ---
 
  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momade-ibraimo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Momade-Ibraimo)
