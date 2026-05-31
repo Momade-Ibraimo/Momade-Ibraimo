@@ -1,3 +1,5 @@
+Olá, eu sou Momade Ibraimo Desenvolvedor Front-End focado em construir interfaces modernas, componentizadas e integradas a APIs REST.
+
 Desenvolvo aplicações web com React.js, priorizando código limpo,
 componentização e boas práticas desde o início do projeto.
 
