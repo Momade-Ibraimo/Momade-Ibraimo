@@ -1,5 +1,3 @@
-Sobre mim
-
 Desenvolvo aplicações web com React.js, priorizando código limpo,
 componentização e boas práticas desde o início do projeto.
 
@@ -62,5 +60,5 @@ integrado a uma API REST.
 
  Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-do-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/momade-ibraimon)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](link-do-github)
