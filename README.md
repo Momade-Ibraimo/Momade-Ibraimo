@@ -2,14 +2,7 @@ Olá, eu sou
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Momade+Ibraimo)](https://github.com/Momade-Ibraimo)
 
-Sou um Desenvolvedor Front-End apaixonado por construir interfaces modernas,
-componentizadas e integradas a APIs REST.
-Acredito que bom código é aquele que é legível, organizado e resolve
-problemas reais. Cada componente que construo é pensado com propósito 
-da estrutura e experiência do usuário.
-
-Atualmente evoluindo para o Back-End com Node.js e Express, buscando
-uma visão completa do desenvolvimento de produtos.
+Sou um desenvolvedor Front-End apaixonado por tecnologia e pela criação de experiências digitais de alto impacto. Comprometido com a excelência técnica, busco constantemente aprofundar meu conhecimento nas mais modernas tecnologias do desenvolvimento web, transformando ideias em soluções intuitivas, acessíveis e performáticas.
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> 
 
