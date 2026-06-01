@@ -36,27 +36,6 @@ Ferramentas
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
- Projetos em destaque
-
- App de Pedidos — Hamburgueria
-Sistema de gerenciamento de pedidos com criação, listagem e remoção
-em tempo real, consumindo API REST externa.
-
-**Stack:** React.js • Styled Components • Axios • React Router
-
-🔗 [Ver repositório](https://github.com/Momade-Ibraimo/app-pedidos-hamburgueria)
-
----
-
- App de Cadastro de Usuários
-CRUD completo com cadastro, listagem e exclusão de usuários,
-integrado a uma API REST.
-
-**Stack:** React.js • Styled Components • Axios • React Router
-
-🔗 [Ver repositório](https://github.com/Momade-Ibraimo/app-cadastro-usuarios)
 
 ---
 
