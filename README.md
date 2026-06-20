@@ -7,7 +7,9 @@
 </p>
 
 
-<img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4d/64/08/4d6408285378256a5080815dad34d608.gif">
+<br>
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
 
 <p align="center">
