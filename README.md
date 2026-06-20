@@ -20,7 +20,7 @@ Tenho experiência em aplicações web responsivas, integração entre Front-End
 </p>
 
 <p align="center">
-Estou em constante evolução técnica através de projetos práticos e estudos contínuos, buscando aprofundar conhecimentos em engenharia de software, performance, escalabilidade e arquitetura Full Stack.
+Estou em constante evolução técnica através de projetos práticos e estudos contínuos, buscando aprofundar conhecimentos em engenharia de software, performance, escalabilidade e arquitetura.
 </p>
 
 <h3 align="center">🚀 Full Stack JavaScript Developer</h3>
