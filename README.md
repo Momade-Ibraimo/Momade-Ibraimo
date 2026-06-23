@@ -86,8 +86,6 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Momade-Ibraimo&label=Visualizações%20no%20perfil&color=ff6f9c&style=flat" alt="Visitor Count" />
-</p>
 
 ---
 
