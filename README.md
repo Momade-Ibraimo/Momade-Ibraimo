@@ -81,11 +81,6 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momade-Ibraimo&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Momade-Ibraimo&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
-
-<p align="center">
 
 ---
 
