@@ -11,7 +11,7 @@
 
 
 <p align="center">
-Desenvolvedor <b>Full Stack JavaScript</b> apaixonado por tecnologia, arquitetura de software e construção de aplicações modernas.
+Desenvolvedor <b>Full Stack</b> apaixonado por tecnologia, arquitetura de software e construção de aplicações modernas.
 Trabalho no desenvolvimento de soluções completas utilizando <b>React.js, Node.js, Express.js, PostgreSQL e MongoDB</b>, criando desde interfaces intuitivas até APIs escaláveis e bancos de dados bem estruturados.
 </p>
 
