@@ -23,11 +23,11 @@ Tenho experiência em aplicações web responsivas, integração entre Front-End
 Estou em constante evolução técnica através de projetos práticos e estudos contínuos, buscando aprofundar conhecimentos em engenharia de software, performance, escalabilidade e arquitetura.
 </p>
 
-<h3 align="center">🚀 Full Stack JavaScript Developer</h3>
+<h3 align="center"> Full Stack JavaScript Developer</h3>
 
 ---
 
-### <p align="center">🧩 Skills</p>
+### <p align="center"> Skills</p>
 
 <p align="center"><b>Front-End</b></p>
 <p align="center">
@@ -68,7 +68,7 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 
 ---
 
-### <p align="center">📊 GitHub Stats</p>
+### <p align="center"> GitHub Stats</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Momade-Ibraimo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -82,7 +82,7 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 
 ---
 
-### <p align="center">📫 Contato</p>
+### <p align="center"> Contato</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/momade-ibraimo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
