@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou</h1>
 
-<p align="center">
-  <a href="https://github.com/Momade-Ibraimo">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%FF6F9C&size=30&lines=Momade+Ibraimo;Full+Stack+Developer" alt="Typing SVG" />
-  </a>
-</p>
+      <p align="center">
+        <a href="https://github.com/Momade-Ibraimo">
+          <img src="https://readme-typing-svg.herokuapp.com?color=%FF6F9C&size=30&lines=Momade+Ibraimo;Full+Stack+Developer" alt="Typing SVG" />
+        </a>
+      </p>
 
 
 <br>
