@@ -2,7 +2,7 @@
 
  <p align="center">
                           <a href="https://github.com/Momade-Ibraimo">
-                            <img src="https://readme-typing-svg.herokuapp.com?color=%FF6F9C&size=30&lines=Momade+Ibraimo;Full+Stack+Developer" alt="Typing SVG" />
+                            <img src="https://readme-typing-svg.demolab.com?color=%FF6F9C&size=30&lines=Momade+Ibraimo;Full+Stack+Developer" alt="Typing SVG" />
                           </a>
       </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 Desenvolvedor <b>Full Stack</b> apaixonado por tecnologia, arquitetura de software e construção de aplicações modernas.
-Trabalho no desenvolvimento de soluções completas utilizando <b>React.js, Node.js, Express.js, PostgreSQL e MongoDB</b>, criando desde interfaces intuitivas até APIs escaláveis e bancos de dados bem estruturados.
+Trabalho no desenvolvimento de soluções completas utilizando <b>React.js, Next.js, Node.js, Express.js, PostgreSQL e MongoDB</b>, criando desde interfaces intuitivas até APIs escaláveis e bancos de dados bem estruturados.
 </p>
 
 <p align="center">
@@ -32,9 +32,12 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 <p align="center"><b>Front-End</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -76,7 +79,7 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Momade-Ibraimo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Momade-Ibraimo&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
