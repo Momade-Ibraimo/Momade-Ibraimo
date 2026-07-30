@@ -12,7 +12,7 @@
 
 <p align="center">
 <b>Full Stack</b> Developer passionate about technology, software architecture, and building modern applications.
-I work on developing complete solutions using <b>JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB</b>, creating everything from intuitive interfaces to scalable APIs and well-structured databases.
+I work on developing complete solutions using <b>JavaScript, TypeScript, React.js, Next.js, React Native, Node.js, Express.js, PostgreSQL, and MongoDB</b>, creating everything from intuitive interfaces to scalable APIs and well-structured databases.
 </p>
 
 <p align="center">
