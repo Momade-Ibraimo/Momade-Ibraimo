@@ -73,10 +73,6 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 
 ### <p align="center"> GitHub Stats</p>
 
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Momade-Ibraimo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Momade-Ibraimo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Momade-Ibraimo&theme=radical&hide_border=true" alt="GitHub Streak"/>
