@@ -12,7 +12,7 @@
 
 <p align="center">
 Desenvolvedor <b>Full Stack</b> apaixonado por tecnologia, arquitetura de software e construção de aplicações modernas.
-Trabalho no desenvolvimento de soluções completas utilizando <b>React.js, Next.js, Node.js, Express.js, PostgreSQL e MongoDB</b>, criando desde interfaces intuitivas até APIs escaláveis e bancos de dados bem estruturados.
+Trabalho no desenvolvimento de soluções completas utilizando <b>Javascript, Typescript, React.js, Next.js, Node.js, Express.js, PostgreSQL e MongoDB</b>, criando desde interfaces intuitivas até APIs escaláveis e bancos de dados bem estruturados.
 </p>
 
 <p align="center">
@@ -74,12 +74,12 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 ### <p align="center"> GitHub Stats</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Momade-Ibraimo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momade-Ibraimo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Momade-Ibraimo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Momade-Ibraimo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Momade-Ibraimo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Momade-Ibraimo&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
