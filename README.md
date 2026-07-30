@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou</h1>
+<h1 align="center">Hi, I'm</h1>
 
  <p align="center">
                           <a href="https://github.com/Momade-Ibraimo">
@@ -11,16 +11,16 @@
 
 
 <p align="center">
-Desenvolvedor <b>Full Stack</b> apaixonado por tecnologia, arquitetura de software e construção de aplicações modernas.
-Trabalho no desenvolvimento de soluções completas utilizando <b>Javascript, Typescript, React.js, Next.js, Node.js, Express.js, PostgreSQL e MongoDB</b>, criando desde interfaces intuitivas até APIs escaláveis e bancos de dados bem estruturados.
+<b>Full Stack</b> Developer passionate about technology, software architecture, and building modern applications.
+I work on developing complete solutions using <b>JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB</b>, creating everything from intuitive interfaces to scalable APIs and well-structured databases.
 </p>
 
 <p align="center">
-Tenho experiência em aplicações web responsivas, integração entre Front-End e Back-End, autenticação com <b>JWT</b>, consumo e criação de <b>APIs REST</b>, modelagem de banco de dados e boas práticas de desenvolvimento.
+I have experience with responsive web applications, Front-End/Back-End integration, <b>JWT</b> authentication, consuming and building <b>REST APIs</b>, database modeling, and development best practices.
 </p>
 
 <p align="center">
-Estou em constante evolução técnica através de projetos práticos e estudos contínuos, buscando aprofundar conhecimentos em engenharia de software, performance, escalabilidade e arquitetura.
+I'm constantly evolving through hands-on projects and continuous learning, deepening my knowledge of software engineering, performance, scalability, and architecture.
 </p>
 
 <h3 align="center"> Full Stack JavaScript Developer</h3>
@@ -51,7 +51,7 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
-<p align="center"><b>Banco de Dados</b></p>
+<p align="center"><b>Databases</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
@@ -59,7 +59,7 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
-<p align="center"><b>Ferramentas</b></p>
+<p align="center"><b>Tools</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -67,6 +67,14 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+</p>
+
+---
+
+### <p align="center"> Languages</p>
+
+<p align="center">
+🇵🇹 Portuguese — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent &nbsp;|&nbsp; 🇫🇷 French — Learning
 </p>
 
 ---
@@ -81,7 +89,7 @@ Estou em constante evolução técnica através de projetos práticos e estudos 
 
 ---
 
-### <p align="center"> Contato</p>
+### <p align="center"> Contact</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/momade-ibraimo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
